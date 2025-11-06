@@ -8,9 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Tarun+Kataruka;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;MERN+%7C+Next.js+%7C+AWS+Learner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Tarun Kataruka</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-
 ---
 
 ## 📊 GitHub Stats
@@ -33,11 +30,23 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/tarun-kataruka"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:tarunkataruka03@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://github.com/Tarun-Kataruka"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" height="40"/></a>
+  <a href="https://www.linkedin.com/in/tarun-kataruka-29494327a/" style="margin-right: 15px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+
+  <a href="mailto:tarunkataruka22@gmail.com" style="margin-right: 15px;">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+
+  <a href="https://github.com/Tarun-Kataruka" style="margin-right: 15px;">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+
+  <a href="https://tarunkataruka.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" height="40"/>
+  </a>
 </p>
+
 
 ---
 
@@ -55,27 +64,6 @@
 
 ### **AI/ML & Data**
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python" />
-
-</div>
-
----
-
-## 🏗️ Featured Projects
-
-### 🔥 Highlighted Project Cards
-<div align="center">
-
-<a href="https://github.com/Tarun-Kataruka/Sharkbucks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun-Kataruka&repo=Sharkbucks&theme=dark" />
-</a>
-
-<a href="https://github.com/Tarun-Kataruka/Eventbrite-Realtime">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun-Kataruka&repo=Eventbrite-Realtime&theme=dark" />
-</a>
-
-<a href="https://github.com/Tarun-Kataruka/MERN-Ecommerce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun-Kataruka&repo=MERN-Ecommerce&theme=dark" />
-</a>
 
 </div>
 
@@ -100,27 +88,12 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
-<div align="center">
-  <!-- Requires an action that builds the snake to /output/ -->
-  <img src="https://github.com/Tarun-Kataruka/Tarun-Kataruka/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-## 🏆 GitHub Profile Trophy
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tarun-Kataruka&theme=discord&no-frame=true&margin-w=15"/>
-</div>
-
----
-
 ## 🚀 About Me
 - 🎓 Final-year Engineering Student (2026 Graduate)
 - 💻 Full Stack Developer (MERN + Next.js 14)
 - ☁️ DevOps learner focusing on AWS, Azure & Kubernetes
 - 🧠 Practicing DSA in C++ for placements
-- 🔥 Built projects like **Sharkbucks (SME loan platform)**, **Eventbrite Webhook + SSE**, **MERN E‑commerce**, **AI Image Classification (VGG16 & ResNet50)**
+- 🔥 Among Top 9 in HackGlobal, Singapore
 
 ---
 
