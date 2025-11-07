@@ -1,4 +1,3 @@
-<!-- ✅ Custom Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0057FF&height=220&section=header&text=Tarun%20Kataruka&fontSize=48&fontColor=ffffff&fontAlignY=40" />
 </p>
@@ -96,7 +95,7 @@
 - 🎓 Final-year Engineering Student (2026 Graduate)
 - 💻 Full Stack Developer (MERN + Next.js 14)
 - ☁️ DevOps learner focusing on AWS, Azure & Kubernetes
-- 🧠 Practicing DSA in C++ for placements
+- 🧠 Practicing DSA in C++
 - 🔥 Among Top 9 in HackGlobal, Singapore
 
 ---
