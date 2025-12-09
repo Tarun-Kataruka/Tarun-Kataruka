@@ -14,9 +14,9 @@
 <div align="center">
   <table>
     <tr>
-      <td>
+      <!-- <td>
         <img src="https://github-readme-stats.vercel.app/api?username=Tarun-Kataruka&theme=dark&hide_border=false&show_icons=true" height="180px" />
-      </td>
+      </td> -->
       <td>
         <img src="https://nirzak-streak-stats.vercel.app/?user=Tarun-Kataruka&theme=dark&hide_border=false" height="180px" />
       </td>
