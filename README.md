@@ -22,9 +22,9 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <!-- <td colspan="2" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kataruka&theme=dark&hide_border=false&layout=compact" height="180px" />
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
